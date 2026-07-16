@@ -1,3 +1,17 @@
+header {
+  height:400px;
+  background-image:none;
+  border:1px solid #CCC;
+  width:1000px;
+  margin:0px auto;
+  position: relative;
+}
+
+#header h1{
+  color:white;
+  text-align: center
+}
+      
 h1 {
 	color : #cfc9f8;
     text-align: center;

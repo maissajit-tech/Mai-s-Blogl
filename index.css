@@ -1,3 +1,9 @@
+.blurbs .inner {
+    border: double #FF6BBF 4px;
+    padding-left: 10px;
+    padding-top: 10px;
+    background: (0,0,0,30%);
+}
 h1 {
 	color : #cfc9f8;
     text-align: center;
